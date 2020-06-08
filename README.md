@@ -15,11 +15,13 @@ Customer data (it's fake, don't worry I didn't give you real credit card numbers
 * Time on Website: Average time spent on Website in minutes
 * Length of Membership: How many years the customer has been a member. 
 
-![pairplot](/Users/herb/Desktop/python/Data\ Science/11-Linear-Regression/git\ images/pairplot.png )
+![pairplot](https://user-images.githubusercontent.com/64975026/84069972-00faa600-a991-11ea-852d-39851af4761a.png)
+
 
 ## Conclusion
 
 This model explained ~ 98% of variance
+![model](https://user-images.githubusercontent.com/64975026/84070076-2982a000-a991-11ea-99d1-f7cea5836dfa.png)
 
 Interpreting the coefficients:
 
